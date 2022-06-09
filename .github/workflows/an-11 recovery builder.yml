@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/mastersenpai0405/twrp_device_Infinix_X689.git'
+        default: 'https://github.com/Parvej899/-android_device_tecno_kg8-TWRP.git'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
@@ -26,11 +26,11 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/infinix/X689'
+        default: 'device/tecno/KG8'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'X689'
+        default: 'KG8'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
