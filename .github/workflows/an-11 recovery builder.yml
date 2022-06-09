@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/Parvej899/-android_device_tecno_kg8-TWRP.git'
+        default: 'https://github.com/parvej789/parvej-kg8-88.git'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
