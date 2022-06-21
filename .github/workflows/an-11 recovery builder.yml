@@ -18,19 +18,19 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/Parvej899/-android_device_tecno_kg8-TWRP.git'
+        default: 'https://github.com/mohammad92/android_device_samsung_a32x'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'twrp-11.0'
+        default: 'android-11'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/tecno/KG8'
+        default: 'device/samsung/a32x'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'KG8'
+        default: 'a32x'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
