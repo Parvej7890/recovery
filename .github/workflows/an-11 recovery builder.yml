@@ -18,19 +18,19 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/Parvej899/-android_device_tecno_kg8-TWRP'
+        default: 'https://github.com/eun0115/twrp_realme_even'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'twrp-11.0'
+        default: 'android-11'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/tecno/KG8'
+        default: 'device/realme/even'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'KG8'
+        default: 'even'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
