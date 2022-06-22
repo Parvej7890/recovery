@@ -18,11 +18,11 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/parvej789/an11'
+        default: 'https://github.com/parvej789/parvej-kg8-88'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'main'
+        default: 'twrp-11.0'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
