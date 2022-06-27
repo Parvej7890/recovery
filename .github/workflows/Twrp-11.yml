@@ -1,4 +1,4 @@
-name: Make Recovery an-11
+name: twrp-11
 
 on:
   workflow_dispatch:
