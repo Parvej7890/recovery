@@ -65,4 +65,4 @@ jobs:
           tag_name: TWRP_10.0
           name: Twrp-KE7
           files: | 
-            work/out/target/product/X680/recovery.img
+            work/out/target/product/KE7/recovery.img
