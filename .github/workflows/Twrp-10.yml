@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
-  DEVICE: X680
-  DT_LINK: https://github.com/Parvej899/twrp_device_Infinix_X680
-  DT_PATH: device/infinix/X680
+  DEVICE: KE7
+  DT_LINK: https://github.com/Parvej899/twrp_device_tecno_KE7-H693HJKM-Q-GL-
+  DT_PATH: device/tecno/KE7
   TARGET: recoveryimage
   TZ: Asia/manila
 
