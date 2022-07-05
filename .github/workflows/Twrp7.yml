@@ -1,4 +1,4 @@
-name: twrp-11
+name: twrp-7
 
 on:
   workflow_dispatch:
