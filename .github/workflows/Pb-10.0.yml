@@ -1,20 +1,4 @@
-name: PB recovery-10
-
-on:
-#  release:
-#    types: [published]
-#  push:
-#    branches:
-#      - master
-#    paths:
-#      - '.config'
-#  schedule:
-#    - cron: 0 8 * * 5
-  workflow_dispatch:
-
-env:
-  MANIFEST: name: omni
-
+name: PB recovery 10
 on:
 #  release:
 #    types: [published]
