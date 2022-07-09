@@ -18,19 +18,19 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/parvej789/parvej-kg8-88'
+        default: 'https://github.com/parvej789/kd10'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'twrp-11.0'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/tecno/KG8'
+        default: 'device/nokia/WSP_sprout'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'KG8'
+        default: 'WSP_sprout'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
