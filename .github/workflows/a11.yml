@@ -18,19 +18,19 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/parvej789/kd101'
+        default: 'https://github.com/parvej789/twrp_device_tecno_ch6'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'main'
+        default: 'android-11'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/nokia/WSP_sprout'
+        default: 'device/tecno/CH6'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'WSP_sprout'
+        default: 'CH6'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
