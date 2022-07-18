@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
   DEVICE: CD6
-  DT_LINK: android_device_TECNO_CD6-pbrp
+  DT_LINK: https://github.com/parvej789/pbandroid_device_TECNO_CG8-pbrp
   DT_PATH: device/TECNO/CD6
   TARGET: recoveryimage
   TZ: Asia/manila
