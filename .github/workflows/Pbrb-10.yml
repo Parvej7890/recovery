@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
-  DEVICE: KE7
-  DT_LINK: https://github.com/Parvej899/twrp_device_tecno_KE7-H693HJKM-Q-GL-
-  DT_PATH: device/tecno/KE7
+  DEVICE: CD6
+  DT_LINK: android_device_TECNO_CD6-pbrp
+  DT_PATH: device/TECNO/CD6
   TARGET: recoveryimage
   TZ: Asia/manila
 
@@ -63,6 +63,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          with:
           tag_name: TWRP_10.0
-          name: Twrp-KE7
+          name: Twrp-CD6
           files: | 
-            work/out/target/product/KE7/recovery.img
+            work/out/target/product/CD6/recovery.img
