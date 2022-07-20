@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/parvej789/kd800'
+        default: 'https://github.com/Parvej7890/twrp_device_tecno_ch6'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
